@@ -7,8 +7,6 @@ using namespace cv;
 
 int main(int argc, char **argv) {
 
-
-
     CvPoint center;
     double scale = -3;
     IplImage* image = cvLoadImage("taaarannn.png");
