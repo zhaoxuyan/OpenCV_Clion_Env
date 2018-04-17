@@ -24,7 +24,9 @@
 
    #### 运行程序，结果如下：
 
-   ![](https://ws2.sinaimg.cn/large/006tNc79gy1fqfrxmuia7j310o16wwjv.jpg)
+   [taaarannn_magic_IplImage.png](https://github.com/zhaoxuyan/openCV_Clion/blob/master/cmake-build-debug/taaarannn_magic_IplImage.png)
+
+   ![](https://ws3.sinaimg.cn/large/006tNc79gy1fqfx52s4baj31b81cmwl1.jpg)
 
 2. 将 IplImage 结构换成 Mat结构，重新改写任务1的程序。
 
@@ -58,7 +60,9 @@
    }
    ```
 
-   用Mat改写后，结果与上图相同。
+   - 用Mat改写后，结果与上图相同。
+
+     [taaarannn_magic_Mat.png](https://github.com/zhaoxuyan/openCV_Clion/blob/master/cmake-build-debug/taaarannn_magic_Mat.png)
 
 3. 在Ubuntu系统中下载安装opencv2.x/3.x，编译运行任务1~2的代码。
 
