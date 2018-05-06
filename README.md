@@ -4,15 +4,10 @@
 
    ![](https://ws2.sinaimg.cn/large/006tNc79gy1fqfq3j15taj31ig12itju.jpg)
 
-   ​
-
-   ​
-
-   #### 由于rpath(谷歌是动态链接库，要在Xcode中改)环境问题，需要在每次编译前运行rpath.sh脚本
+#### 由于rpath（谷歌rpath是动态链接库，要在Xcode中改配置）环境问题，需要在每次编译前运行rpath.sh脚本
 
    ![](https://ws4.sinaimg.cn/large/006tNc79gy1fqfrud20nej31bg122qto.jpg)
 
-   ​
 
    #### 在Clion中配置before launch,编译前运行sh脚本,即可一劳永逸~
 
